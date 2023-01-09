@@ -1,12 +1,12 @@
 ## python
-**stepik.org/cert/1635496**
+**stepik projects**
 
 <details>
-  <summary>"Generation Python": beginners course</summary>
+  <summary>[Generation Python": beginners course](https://stepik.org/cert/1635496)</summary>
 
   ***
 
-  ## &#9745;  Safe Password Generator (stepik.org/lesson/349848) 
+  ## &#9745;  [Safe Password Generator](https://stepik.org/lesson/349848) 
 
   * Description of the project: 
 the program generates a given number of passwords and includes 
