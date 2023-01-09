@@ -2,7 +2,7 @@
 **stepik projects**
 
 <details>
-  <summary>[Generation Python": beginners course](https://stepik.org/cert/1635496)</summary>
+  <summary> [Generation Python": beginners course](https://stepik.org/cert/1635496) </summary>
 
   ***
 
